@@ -61,7 +61,6 @@ export class App extends Component {
           flexDirection: 'column',
           alignItems: 'center',
           backgroundColor: '#22232B',
-          // color: '#DBD7D7',
         }}
       >
         <SearchBar onSubmit={this.handleSubmit} />
